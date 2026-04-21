@@ -5,27 +5,28 @@ Cloud • Automation • Integrations
 
 <p>
   <a href="https://mohammadnatsheh.dev/">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=F7C600&width=500&lines=Building+real-world+systems;Backend+%2B+Cloud+%2B+Integrations;Automation+%7C+ERP+%7C+Infrastructure" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=F7C600&width=520&lines=Building+real-world+systems;Backend+%2B+Cloud+%2B+Integrations;Automation+%7C+ERP+%7C+Infrastructure" />
   </a>
 </p>
 
 ---
 
-## Tech Stack
+## About Me
 
-### Languages
+I design and build **real-world systems that support business operations**.
+
+My work connects **ERP systems, cloud infrastructure, and automation workflows** into reliable, scalable platforms.
+
+I operate across:
+**Infrastructure → Backend → Integrations → Automation**
+
+---
+
+## Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,go,cs,cpp,c,bash" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,go,cs,cpp,c,bash,php,ruby,swift,kotlin,html,css,nodejs,docker,aws,azure,postgres,mysql,linux,nginx,git,github" />
 </p>
-
-### Backend & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nginx,docker,aws,postgres,linux,git,github" />
-</p>
-
-### Microsoft & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Dynamics_365-0B53CE?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -37,32 +38,52 @@ Cloud • Automation • Integrations
 
 ---
 
-## About Me
+## Languages
 
-I build **systems that actually run businesses**.
-
-My work focuses on:
-- backend architecture and API design  
-- cloud infrastructure and deployment  
-- ERP integrations and automation  
-- real-time messaging and workflow systems  
-
-I work across:
-**Infrastructure → Backend → Integrations → Automation**
+TypeScript • JavaScript • Python • Java • C# • C++ • C • Go • Bash • PHP • Ruby • Swift • Kotlin • HTML • CSS • AL
 
 ---
 
-## Work & Systems
+## Engineering Activity
 
-I have built and worked on multiple **production-grade systems**, including:
+- Built and maintained multiple production systems  
+- Designed backend architectures and API integrations  
+- Implemented automation workflows and messaging systems  
+- Deployed and managed cloud infrastructure (AWS, Azure, Docker, Linux)  
+- Developed ERP integrations (Business Central, external APIs)  
 
-- WhatsApp automation platforms  
-- ERP integrations (Business Central & APIs)  
-- e-Invoicing and compliance systems  
-- Internal dashboards and tools  
-- Cloud-based backend infrastructure  
+> Most repositories are private due to real business usage and client systems.
 
-> Most of my work is private due to real business usage.
+---
+
+## Systems I’ve Built
+
+### Messaging & Automation Platforms
+- WhatsApp-based systems with real-time processing  
+- Media handling (images, documents, voice)  
+- AI-driven workflows and automated responses  
+
+---
+
+### ERP Integrations
+- Business Central integrations with external systems  
+- Invoice automation, validation, and reporting  
+- Government and compliance API connections  
+
+---
+
+### Cloud Infrastructure
+- Docker-based deployments  
+- Reverse proxy setups (Nginx)  
+- Secure, scalable backend environments  
+- Self-hosted platforms  
+
+---
+
+### Internal Business Tools
+- Operational dashboards  
+- Reporting and analytics systems  
+- Workflow automation platforms  
 
 ---
 
@@ -72,15 +93,16 @@ I have built and worked on multiple **production-grade systems**, including:
 - Focus on **real-world business problems**  
 - Design for **scalability and reliability**  
 - Connect systems into unified workflows  
+- Keep infrastructure **efficient and maintainable**  
 
 ---
 
-## GitHub Stats
+## Current Focus
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=M0hammadNatsheh&show_icons=true&hide_border=true&title_color=F7C600&icon_color=F7C600&text_color=cccccc&bg_color=00000000" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0hammadNatsheh&layout=compact&hide_border=true&title_color=F7C600&text_color=cccccc&bg_color=00000000" height="150" />
-</p>
+- Backend architecture  
+- Cloud systems (AWS & Azure)  
+- Automation platforms  
+- Integration-driven solutions  
 
 ---
 
@@ -92,6 +114,6 @@ I have built and worked on multiple **production-grade systems**, including:
 
 ---
 
-## Focus
+## Philosophy
 
-Building scalable backend systems, automation platforms, and integration-driven solutions for real operational environments.
+> Good software is not just functional — it integrates, scales, and solves real problems.
