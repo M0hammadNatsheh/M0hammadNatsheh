@@ -1,18 +1,5 @@
 # Mohammad Al Natsheh
 
-```bash
-> booting system profile...
-
-[ OK ] identity loaded
-[ OK ] role: Systems Architect / Software Engineer
-[ OK ] focus: backend • cloud • integrations • automation
-[ OK ] status: building production systems
-
-> system ready
-```
-
----
-
 ## $ whoami
 
 ```bash
