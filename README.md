@@ -44,7 +44,7 @@ graph TD
     A[Client / External Systems] --> B[API Gateway]
     B --> C[Backend Services]
     C --> D[Automation Engine]
-    C --> E[ERP (Business Central)]
+    C --> E[ERP - Business Central]
     C --> F[Database Layer]
     D --> G[Messaging Systems]
     E --> H[External APIs]
@@ -53,13 +53,28 @@ graph TD
 
 ---
 
+## How I Think About Systems
+
+```mermaid
+graph LR
+    A[Business Problem] --> B[System Design]
+    B --> C[Automation]
+    C --> D[Integration]
+    D --> E[Deployment]
+    E --> F[Monitoring]
+    F --> G[Feedback Loop]
+    G --> B
+```
+
+---
+
 ## Core Expertise
 
-- **Distributed Systems & Backend Architecture**
-- **Cloud Infrastructure (AWS, Azure, Docker, Linux)**
-- **ERP Integrations (Business Central, APIs)**
-- **Automation & Event-Driven Systems**
-- **Scalable Business System Design**
+- Distributed Systems & Backend Architecture  
+- Cloud Infrastructure (AWS, Azure, Docker, Linux)  
+- ERP Integrations (Business Central, APIs)  
+- Automation & Event-Driven Systems  
+- Scalable Business System Design  
 
 ---
 
@@ -107,6 +122,48 @@ graph TD
 
 ---
 
+## System Thinking
+
+Most engineers write code.  
+I build **operational systems**.
+
+```text
+A feature delivers output.
+A system delivers outcomes.
+```
+
+What I design:
+
+• Systems that replace manual business operations  
+• Architectures that connect multiple platforms into one flow  
+• Automation layers that eliminate human bottlenecks  
+• Infrastructure that runs reliably without constant intervention  
+
+```text
+If the system breaks → the business stops.
+So I build systems that don’t break.
+```
+
+---
+
+## Real-World Constraint Engineering
+
+I don’t build in ideal environments.
+
+I build systems that work under:
+
+• Incomplete requirements  
+• Legacy ERP constraints  
+• Third-party API limitations  
+• Real business pressure (time, cost, reliability)  
+
+```text
+Clean architecture matters.
+But working systems matter more.
+```
+
+---
+
 ## Current Focus
 
 - Distributed backend systems  
@@ -116,19 +173,19 @@ graph TD
 
 ---
 
-## Featured System (Example)
+## Featured System
 
 ```text
 System: Messaging + ERP Automation Platform
 
 • Real-time event processing
 • WhatsApp integration
-• ERP (Business Central) sync
-• Document + media handling
-• Automated workflows and validations
+• ERP (Business Central) synchronization
+• Document and media handling
+• Automated workflows and validation pipelines
 
 Architecture:
-Client → API → Backend → Queue → Workers → ERP / DB / Messaging
+Client → API → Backend → Queue → Workers → ERP / Database / Messaging
 ```
 
 ---
