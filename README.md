@@ -1,66 +1,71 @@
 # Mohammad Al Natsheh
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F7C600&center=true&vCenter=true&width=750&lines=I+build+systems+that+run+businesses;Not+apps.+Not+features.+Systems." />
-</p>
+```bash
+> booting system profile...
 
----
+[ OK ] identity loaded
+[ OK ] role: Systems Architect / Software Engineer
+[ OK ] focus: backend • cloud • integrations • automation
+[ OK ] status: building production systems
 
-## 01 — Identity
-
-```text
-Systems Architect / Software Engineer
-
-I don’t build apps.
-I build systems that companies depend on.
+> system ready
 ```
 
 ---
 
-## 02 — What That Actually Means
+## $ whoami
 
-```text
-• APIs that don't go down
-• Automation that replaces manual work
-• ERP integrations that actually work
-• Infrastructure that scales without drama
+```bash
+I build systems that run business operations.
+
+Not features.
+Not prototypes.
+Production systems.
 ```
 
 ---
 
-## 03 — System View
+## $ capabilities --list
+
+```bash
+• Distributed backend systems
+• ERP integrations (Business Central)
+• Cloud infrastructure (AWS / Azure)
+• Automation & event-driven workflows
+• Messaging systems (real-time processing)
+```
+
+---
+
+## $ architecture --example
 
 ```mermaid
 graph LR
-    A[Users / Ops] --> B[API]
-    B --> C[Core System]
-    C --> D[Automation]
-    C --> E[ERP]
-    C --> F[DB]
-    D --> G[Messaging]
+    A[Users / Ops] --> B[API Layer]
+    B --> C[Core Services]
+    C --> D[Automation Engine]
+    C --> E[ERP System]
+    C --> F[Database]
+    D --> G[Messaging Systems]
 ```
 
 ---
 
-## 04 — Signature Thinking
+## $ philosophy
 
-```text
-Most engineers ship features.
-
-I design systems where:
-if one part fails → everything still works.
+```bash
+If the system fails → operations stop.
+So I design systems that don't fail.
 ```
 
-```text
-Because in real businesses:
-
-downtime ≠ bug  
-downtime = lost money
+```bash
+In production:
+reliability > cleverness
 ```
 
 ---
 
-## 05 — Stack
+## $ stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,go,cs,nodejs,docker,aws,azure,postgres,linux,nginx,git" />
@@ -68,20 +73,18 @@ downtime = lost money
 
 ---
 
-## 06 — Contact
+## $ contact
 
-<p align="center">
-  <a href="https://mohammadnatsheh.dev/">Portfolio</a> •
-  <a href="mailto:me@mohammadnatsheh.dev">Email</a> •
-  <a href="https://linkedin.com/in/m0hammadnatsheh">LinkedIn</a>
-</p>
+```bash
+portfolio:  https://mohammadnatsheh.dev
+email:      me@mohammadnatsheh.dev
+linkedin:   linkedin.com/in/m0hammadnatsheh
+```
 
 ---
 
-<p align="center">
-  
-```text
-Build systems. Reduce chaos. Scale operations.
-```
+```bash
+> exit
 
-</p>
+system shutting down...
+```
