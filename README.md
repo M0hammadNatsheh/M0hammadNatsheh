@@ -1,77 +1,55 @@
 # Mohammad Al Natsheh
 
-## $ whoami
-
-```bash
-I build systems that run business operations.
-
-Not features.
-Not prototypes.
-Production systems.
-```
+**Systems Engineer — Building infrastructure that runs real businesses**
 
 ---
 
-## $ capabilities --list
+## What I Do
+I design and build **production systems** that companies depend on daily.
 
-```bash
-• Distributed backend systems
-• ERP integrations (Business Central)
-• Cloud infrastructure (AWS / Azure)
-• Automation & event-driven workflows
-• Messaging systems (real-time processing)
-```
+Not experiments.  
+Not demos.  
+Systems that operate revenue, inventory, and workflows.
 
 ---
 
-## $ architecture --example
+## Expertise
+- Distributed backend systems
+- ERP integrations (Dynamics 365 Business Central)
+- Cloud architecture (AWS, Azure)
+- Event-driven automation
+- Real-time systems & messaging
 
+---
+
+## How I Think
+- If the system fails → operations stop  
+- Reliability is not optional  
+- **Simple systems scale. Clever ones break**
+
+---
+
+## Architecture Snapshot
 ```mermaid
 graph LR
-    A[Users / Ops] --> B[API Layer]
+    A[Operations] --> B[API Layer]
     B --> C[Core Services]
-    C --> D[Automation Engine]
-    C --> E[ERP System]
+    C --> D[Automation]
+    C --> E[ERP]
     C --> F[Database]
-    D --> G[Messaging Systems]
+    D --> G[Events / Messaging]
 ```
 
 ---
 
-## $ philosophy
-
-```bash
-If the system fails → operations stop.
-So I design systems that don't fail.
-```
-
-```bash
-In production:
-reliability > cleverness
-```
-
----
-
-## $ stack
-
+## Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,go,cs,nodejs,docker,aws,azure,postgres,linux,nginx,git" />
 </p>
 
 ---
 
-## $ contact
-
-```bash
-portfolio:  https://mohammadnatsheh.dev
-email:      me@mohammadnatsheh.dev
-linkedin:   linkedin.com/in/m0hammadnatsheh
-```
-
----
-
-```bash
-> exit
-
-system shutting down...
-```
+## Contact
+- 🌐 https://mohammadnatsheh.dev  
+- 📧 me@mohammadnatsheh.dev  
+- 💼 linkedin.com/in/m0hammadnatsheh
