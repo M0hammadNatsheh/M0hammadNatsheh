@@ -1,68 +1,70 @@
 <h1 align="center">Mohammad Al Natsheh</h1>
 
 <p align="center">
-  Systems Engineer — Building infrastructure that runs real businesses
+  Fullstack Systems Engineer<br/>
+  Building production systems for real business operations
+</p>
+
+<p align="center">
+  <a href="https://mohammadnatsheh.dev">Portfolio</a> •
+  <a href="mailto:me@mohammadnatsheh.dev">Email</a> •
+  <a href="https://linkedin.com/in/m0hammadnatsheh">LinkedIn</a>
 </p>
 
 ---
 
-## What I Do
-I build **production systems** that companies depend on daily.
-
-- Revenue systems  
-- Inventory systems  
-- Operational infrastructure  
-
-Not demos. Not prototypes.  
-**Real systems that must not fail.**
+## Who I Am
+- Fullstack engineer (backend-focused)
+- Build systems used in real operations
+- ERP + cloud + automation
 
 ---
 
-## Core Expertise
-- Distributed backend systems
-- ERP integrations (Dynamics 365 Business Central)
-- Cloud architecture (AWS, Azure)
-- Event-driven systems & automation
-- Real-time processing & messaging
+## Skills
+
+**Backend & Systems**
+- Node.js, .NET, Go, Java
+- REST APIs, distributed systems, event-driven architecture
+
+**Frontend**
+- React, Next.js
+- HTML, CSS, JavaScript
+
+**ERP**
+- Dynamics 365 Business Central
+- AL Language
+- ERP integrations
+
+**Cloud & DevOps**
+- AWS, Azure
+- Docker, Nginx, Linux
+
+**Databases**
+- PostgreSQL, MongoDB
+- Supabase, Firebase
+
+**Languages**
+- C#, C++, JavaScript, TypeScript, Python
 
 ---
 
-## Engineering Mindset
-- If the system fails → business stops  
-- Reliability is a requirement, not a feature  
-- **Simple systems scale. Clever systems break**
+## Projects
 
----
+- ⚙️ **ERP Integration System**  
+  Business Central integrations + automation workflows
 
-## System Design Snapshot
-```mermaid
-graph LR
-    A[Operations] --> B[API Layer]
-    B --> C[Core Services]
-    C --> D[Automation Engine]
-    C --> E[ERP Integration]
-    C --> F[Data Layer]
-    D --> G[Event / Messaging Systems]
-```
+- 📦 **Inventory Systems**  
+  Backend systems for stock, demand, operations
 
 ---
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,cs,nodejs,docker,aws,azure,postgres,linux,nginx,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,cs,cpp,java,nodejs,react,nextjs,express,dotnet,docker,aws,azure,postgres,mongodb,linux,nginx,git,github,firebase,supabase" />
 </p>
 
 ---
 
-## Selected Focus
-- ERP-driven business systems  
-- Inventory intelligence & operations  
-- Automation of real-world workflows  
-- High-reliability backend architecture  
-
----
-
-## Contact
-- Portfolio → https://mohammadnatsheh.dev  
-- Email → me@mohammadnatsheh.dev  
-- LinkedIn → https://linkedin.com/in/m0hammadnatsheh
+<p align="center">
+  <b>Production systems. No failures.</b>
+</p>
